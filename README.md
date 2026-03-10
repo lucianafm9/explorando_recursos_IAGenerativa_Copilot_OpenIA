@@ -48,7 +48,7 @@ A arquitetura do modelo do transformador consiste em dois componentes principais
  - No decodificador, essas relações são usadas para prever a sequência mais provável de tokens.
 <br>
 
-!(https://github.com/lucianafm9/explorando_recursos_IAGenerativa_Copilot_OpenIA/tree/main/images/read1.jpg)
+![Transformador](images/read1.jpg)
 
 <br>
 
@@ -64,7 +64,7 @@ A arquitetura do modelo do transformador consiste em dois componentes principais
  - As inserções entre tokens são capturadas como vetores, conhecidos como inserções.
 <br>
 
-!(https://github.com/lucianafm9/explorando_recursos_IAGenerativa_Copilot_OpenIA/tree/main/images/read2.jpg)
+![Tokenização](images/read2.jpg)
 
 <br>
 
@@ -74,7 +74,7 @@ A arquitetura do modelo do transformador consiste em dois componentes principais
  - Captura a força das relações entre tokens usando a técnica de atenção. 
 <br>
 
-!(https://github.com/lucianafm9/explorando_recursos_IAGenerativa_Copilot_OpenIA/tree/main/images/read3.jpg)
+![Atenção](images/read3.jpg)
 
 
 <br>
@@ -171,7 +171,7 @@ Planejar uma solução de IA generativa responsável
 <br>
 <br>
 
-!(https://github.com/lucianafm9/explorando_recursos_IAGenerativa_Copilot_OpenIA/tree/main/images/read4.jpg)
+![IA Responsável](images/read4.jpg)
 
 
 <br>
@@ -187,3 +187,16 @@ https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/13
 <br>
 
 https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/14-azure-openai-content-filters.html
+
+## Explorando os Recursos de IA Generativa com Copilot e OpenAI
+
+Aprendemos nessa aula sobre o Copilot. Ele pode responder a perguntas fornecer informações, esclarecer dúvidas e conversar sobre diversos tópicos, criar conteúdo, gerar poemas, histórias, código, músicas, auxiliar na escrita, oferecendo ajuda para escrever ou melhorar algum texto, oferecer sugestões sobre produtos, ideias ou soluções com base nas informações que o usuário fornecer, ser criativo, criando paródias de celebridades, inventando histórias engraçadas.  
+  
+![](images/output1.jpg)
+  
+![](images/output2.jpg)
+  
+![](images/output3.jpg)
+  
+![](images/output4.jpg)
+  
